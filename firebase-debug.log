@@ -1,0 +1,24 @@
+[debug] [2026-07-01T16:13:32.416Z] ----------------------------------------------------------------------
+[debug] [2026-07-01T16:13:32.420Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\TEMPLE\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2026-07-01T16:13:32.421Z] CLI Version:   15.22.4
+[debug] [2026-07-01T16:13:32.421Z] Platform:      win32
+[debug] [2026-07-01T16:13:32.421Z] Node Version:  v26.1.0
+[debug] [2026-07-01T16:13:32.421Z] Detected Agent: unknown
+[debug] [2026-07-01T16:13:32.422Z] Time:          Wed Jul 01 2026 17:13:32 GMT+0100 (West Africa Time)
+[debug] [2026-07-01T16:13:32.422Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\pro-portfolio\portfolio-app
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
